@@ -19,7 +19,7 @@ Working to be a good developer who adds value and knowledge!
 <br/> I speak brazilian portuguese, english and I'm studying korean!
 <br/> My pronouns are: He/Him
 
-<br/> :computer: &nbsp; Skills: .NET, C#, Angular, Node.js, Ruby on Rails, HTML/CSS/JS
+:computer: &nbsp; Skills: .NET, C#, Angular, Node.js, Ruby on Rails, HTML/CSS/JS
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I also have experience with xUnit, AutoFixture, AutoMapper, Postgresql, SQL, Git, Scrum and Kanban!
 <br/><br/> :coffee: &nbsp; I'm more of a hands on person, so I like trying things while learning so I can understand what I'm doing and how things work
 <br/> 💬  &nbsp; About me: I love games, listening to music and I also like messing around in Godot!
